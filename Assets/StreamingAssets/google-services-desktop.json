@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "3544568851",
+    "project_id": "afisha-da516",
+    "storage_bucket": "afisha-da516.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:3544568851:android:9d479f7c1bbd5c492d1be6",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.com.unity.template.mobile2D"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGje_5yH1VeX-QlmIFr_Lw5WVzyXUGavA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
